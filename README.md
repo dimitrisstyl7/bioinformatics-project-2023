@@ -3,7 +3,7 @@
 
 <h3>Τμήμα Πληροφορικής</h3>
 
-<h3>Μάθημα:</h3>&nbsp;&nbsp;Εργασία Βιοπληροφορικής / Bioinformatics Project
+<h3>Μάθημα:</h3>&nbsp;&nbsp;Βιοπληροφορική / Bioinformatics
 
 <h3>Έτος:</h3>&nbsp;&nbsp;2023
 
