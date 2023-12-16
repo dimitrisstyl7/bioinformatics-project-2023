@@ -1,16 +1,6 @@
-# bioinformatics_project_2023
-<h3>Πανεπιστήμιο Πειραιώς</h3>
-
-<h3>Τμήμα Πληροφορικής</h3>
-
-<h3>Μάθημα:</h3>&nbsp;&nbsp;Βιοπληροφορική / Bioinformatics
-
-<h3>Έτος:</h3>&nbsp;&nbsp;2023
-
-<h3>Εξάμηνο:</h3>&nbsp;&nbsp;6ο
-
-<h3>Ομάδα Εργασίας:</h3>
-&nbsp;&nbsp;Δημήτρης Στυλιανού Π20004,<br>
-&nbsp;&nbsp;Θεόδωρος Κοξάνογλου Π20094,<br>
-&nbsp;&nbsp;Απόστολος Σιαμπάνης Π20173,<br>
-&nbsp;&nbsp;Κωνσταντίνος Λοϊζίδης Π20007
+# bioinformatics-project-2023
+## [Universirty of Piraeus](https://www.unipi.gr/unipi/en/)<br>[Department of Informatics](https://www.cs.unipi.gr/index.php?lang=en)
+### Course: Bioinformatics
+### Semester: 6
+### Project Completion Year: 2023
+### Project Team: [Dimitris Stylianou](https://github.com/dimitrisstyl7) | [Apostolis Siampanis](https://github.com/Apostolis2002) | [Theodoros Koxanoglou](https://github.com/thkox) | [Konstantinos Loizidis](https://github.com/kostas96674)
