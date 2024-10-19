@@ -6,8 +6,8 @@ This project is a team assignment for the "Bioinformatics" course, offered in th
 
 ## Course Information
 
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Bioinformatics (2023)
 - **Semester:** 6th
 
