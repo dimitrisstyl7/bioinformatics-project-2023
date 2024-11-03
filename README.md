@@ -39,6 +39,7 @@ This project is a team assignment for the "Bioinformatics" course, offered in th
     <td align="center"><a href="https://github.com/thkox"><img src="https://avatars.githubusercontent.com/u/79880468?v=4" width="100px;" alt="Theodoros Koxanoglou"/><br /><sub><b>Theodoros Koxanoglou</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ApostolisSiampanis"><img src="https://avatars.githubusercontent.com/u/75365398?v=4" width="100px;" alt="Apostolis Siampanis"/><br /><sub><b>Apostolis Siampanis</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/dimitrisstyl7"><img src="https://avatars.githubusercontent.com/u/75742419?v=4" width="100px;" alt="Dimitris Stylianou"/><br /><sub><b>Dimitris Stylianou</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kostas96674"><img src="https://avatars.githubusercontent.com/u/79859276?v=4" width="100px;" alt="Konstantinos Loizidis"/><br /><sub><b>Konstantinos Loizidis</b></sub></a><br /></td>
   </tr>
 </table>
 
